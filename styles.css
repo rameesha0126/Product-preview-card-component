@@ -89,6 +89,11 @@ p {
     margin: 1em auto;
 }
 
+.submit:hover, .submit:active {
+    background-color: hsl(158, 36%, 26%);
+    cursor: pointer;
+}
+
 .submit img {
     width: 1em;
     height: auto;
